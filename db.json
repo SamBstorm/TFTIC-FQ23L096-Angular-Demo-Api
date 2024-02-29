@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "samuel.legrain@bstorm.be",
+      "password": "Test1234="
+    },
+    {
+      "id": "2",
+      "email": "admin@admin",
+      "password": "Adminsitr@r0r"
+    }
+  ]
+}
